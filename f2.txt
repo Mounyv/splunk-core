@@ -1,0 +1,3 @@
+Splunk was founded in 2003 to solve problems in complex digital infrastructures. From the beginning, we’ve helped organizations explore the vast depths of their data like spelunkers in a cave (hence, “Splunk").
+
+Splunk has evolved a lot in the last 20 years as digital has taken center stage and the types and number of disruptions have simultaneously escalated. With over 1,100 patents and a culture of innovation, we’ve stayed one step ahead of our customers’ needs. Today, many of the world’s largest and most complex organizations rely on Splunk to keep their mission-critical systems secure and reliable.

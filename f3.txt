@@ -1,0 +1,4 @@
+#information about Splunk ports
+8080
+9090
+8000
